@@ -1,0 +1,78 @@
+F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/demux.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/demux.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity demux
+-- Compiling architecture behav of demux
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/mux_2x1.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/mux_2x1.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity mux1
+-- Compiling architecture behav of mux1
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/xor.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/xor.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity xorr
+-- Compiling architecture behav of xorr
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/rights_rot.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/rights_rot.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity rights_rot
+-- Compiling architecture behav of rights_rot
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/add.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/add.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity add
+-- Compiling architecture behav_add of add
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/xor1.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/xor1.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity xor1
+-- Compiling architecture behav of xor1
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/sub.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/sub.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity sub
+-- Compiling architecture behav of sub
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/lefts_rot.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/lefts_rot.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity lefts_rot
+-- Compiling architecture behav of lefts_rot
+
+} {} {}} F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/final.vhd {1 {vcom -work work -2002 -explicit -vopt F:/2017-18/modelsim6.3_code/viterbi1/csa_reroso_spst/final.vhd
+Model Technology ModelSim SE vcom 6.3f Compiler 2008.02 Feb 28 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity csa_reroso
+-- Compiling architecture behav of csa_reroso
+
+} {} {}}
