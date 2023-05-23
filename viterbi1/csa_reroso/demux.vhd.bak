@@ -1,0 +1,40 @@
+library ieee ;
+    
+    use ieee.std_logic_1164.all ;
+    use ieee.std_logic_arith.all ;
+    
+    
+   entity demux is 
+    
+      port (
+              a, b    : in std_logic_vector ( 7 downto 0 ) ; 
+              sel     : in std_logic  ; 
+              
+              op      : out std_logic_vector ( 7 downto 0 )  
+         ) ;
+           
+   end demux ;
+   
+   
+   architecture behav of demux is 
+   
+   begin
+       
+       process ( a, b, sel )
+       
+       begin
+       
+           if sel = '0' then
+           
+              op <=  a ;
+              
+           else
+           
+             op <=  b ;
+             
+       end if ;
+       
+   end process ;
+   
+ end behav ;        
+        
